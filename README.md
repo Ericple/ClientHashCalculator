@@ -1,6 +1,7 @@
 # ClientHashCalculator
 
 ![GitHub](https://img.shields.io/github/license/Ericple/ClientHashCalculator)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/Ericple/ClientHashCalculator/dotnet-desktop.yml)
 
 For educational purposes only, do not use for infringing purposes.
 
